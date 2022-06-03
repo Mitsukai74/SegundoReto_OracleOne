@@ -1,5 +1,21 @@
+body {
+    text-align: center;
+}
 #imgAhorcado {    
     height: 311px;
     width: 230px;
     background-image: url('./imagenes/Ahorc.jpg');
 }
+#fondito {
+    width: 300px;
+    height: 300px;
+    background-image: url('./imagenes/img1.jpg');    
+}
+button {
+    border-radius: 5px;
+    padding: 10px 7px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #333;
+    margin: 5px;
+  }
