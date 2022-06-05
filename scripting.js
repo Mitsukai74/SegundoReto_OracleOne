@@ -33,6 +33,9 @@ document.querySelector('#verificar').addEventListener('click',() =>
     document.querySelector('#letra').value = "";
     document.querySelector('#letra').focus();
 })
+
+document.querySelector('#salid2').innerHTML=palabraguionada;
+
     
     
 

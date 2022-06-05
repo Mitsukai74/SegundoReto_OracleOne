@@ -12,10 +12,21 @@ body {
     background-image: url('./imagenes/img1.jpg');    
 }
 button {
+    font-size: 15px;
     border-radius: 5px;
     padding: 10px 7px;
     text-decoration: none;
     color: #fff;
     background-color: #333;
     margin: 5px;
+  }
+  button:hover {
+      background: darkslategrey;
+      transform: scale(1.2);
+  }
+  input {
+      font-size: 15px;
+  }
+  #salida {
+      font-size: 20px;
   }
